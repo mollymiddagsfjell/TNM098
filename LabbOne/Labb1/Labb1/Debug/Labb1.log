@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Labb1.cpp
+x:\tnm098\labbone\labb1\labb1\labb1.cpp(53): warning C4018: '<': signed/unsigned mismatch
+x:\tnm098\labbone\labb1\labb1\labb1.cpp(86): warning C4018: '<': signed/unsigned mismatch
+x:\tnm098\labbone\labb1\labb1\labb1.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  Labb1.vcxproj -> X:\TNM098\LabbOne\Labb1\Debug\Labb1.exe

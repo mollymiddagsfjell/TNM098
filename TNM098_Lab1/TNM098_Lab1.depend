@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554128849 source:x:\tnm098_lab1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+
